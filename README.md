@@ -81,7 +81,7 @@ Target:
 
 ## Project Structure
 
-Task-5-Decision-Trees-Random-Forests/
+Decision-Trees-Random-Forests/
 
 ├── notebook/
 
